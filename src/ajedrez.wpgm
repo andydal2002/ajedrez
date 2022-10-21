@@ -1,0 +1,11 @@
+import wollok.game.*
+import ajedrez.*
+
+program ajedrez {
+	juego.configurar()
+	juego.iniciarTablero()
+	
+	
+	game.start()
+
+}
